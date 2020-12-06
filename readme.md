@@ -4,16 +4,13 @@ Halaman CRUD
 ![halaman_depan](https://user-images.githubusercontent.com/62535100/101270138-ca1f1480-37a8-11eb-80d0-05488eed661f.PNG)
 *******************
 
-This repo contains in-development code for future releases. To download the
-latest stable release please visit the `CodeIgniter Downloads
-<https://codeigniter.com/download>`_ page.
+Form Tambah Data
 
 **************************
-Changelog and New Features
+![form_tambah_data](https://user-images.githubusercontent.com/62535100/101270166-094d6580-37a9-11eb-9093-6ae64f1f1eb0.PNG)
 **************************
 
-You can find a list of all changes for each release in the `user
-guide change log <https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/changelog.rst>`_.
+Form Ubah Data
 
 *******************
 Server Requirements
